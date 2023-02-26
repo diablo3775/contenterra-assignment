@@ -1,0 +1,20 @@
+body {
+  background-color: #23272f;
+}
+.notes-card {
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: rgb(0 0 0 / 26%) 0px 2px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  background-color: #343a46;
+  color: darkgray;
+}
+
+span {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #13a2cf;
+}
+
